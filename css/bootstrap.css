@@ -1430,6 +1430,12 @@ img {
     vertical-align: middle
 }
 
+.img-portfolio {
+    width: 350px;
+    height: auto;
+    margin: auto;
+}
+
 .carousel-inner>.item>a>img,
 .carousel-inner>.item>img,
 .img-responsive,
@@ -2008,11 +2014,6 @@ pre code {
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto
-}
-
-.row {
-    margin-right: -15px;
-    margin-left: -15px
 }
 
 .col-lg-1,
