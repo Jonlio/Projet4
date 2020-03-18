@@ -658,6 +658,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757 !important
+        
 }
 
 .container {
@@ -852,6 +853,10 @@ h4 {
 
 .logo-bloc1 {
     width: 100px;
+}
+
+.access-txt {
+    opacity: .9;
 }
 
 /*RESPONSIVE*/
