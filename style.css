@@ -3,8 +3,8 @@ body {
     padding: 0;
     background: #FFF;
     overflow-x: hidden;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
+    /*-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale*/
 }
 
 a,
@@ -324,7 +324,7 @@ a:hover {
 .nav > li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;   
+    font-size: 16px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -786,7 +786,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C !important
+    color: #F3976C !important;
+    font-weight: bolder;
 }
 
 .btn-atomic-tangerine {
@@ -840,11 +841,18 @@ h4 {
 .partenaires {
     margin-top: 60px;
 }
- 
+
 .partenaires h3 {
     text-align: center;
 }
 
+.logo-header {
+    height: 50px;
+}
+
+.logo-bloc1 {
+    width: 100px;
+}
 
 /*RESPONSIVE*/
 @media (max-width:1024px) {
