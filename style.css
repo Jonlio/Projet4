@@ -859,7 +859,7 @@ h4 {
     opacity: .9;
 }
 
-.contraste-access {
+.contraste-access, a {
     color: #222222!important;
 }
 
