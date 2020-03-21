@@ -847,6 +847,11 @@ h4 {
     text-align: center;
 }
 
+.partenaires li {
+    font-size: 15px;
+    padding-bottom: 15px;
+}
+
 .logo-header {
     height: 50px;
 }
